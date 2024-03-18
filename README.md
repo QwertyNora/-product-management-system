@@ -11,10 +11,16 @@ Welcome to our Product Management System, a terminal-based application designed 
 - **Supplier Management:** Add and view suppliers.
 - **Sales and Profit Tracking:** Monitor all sales activities and calculate total profits, offering valuable business insights.
 
-## Built With 👷🏼‍♀️
-**JavaScript:** The backbone of our system, ensuring robust functionality.
-**MongoDB Compass:** For a visual and intuitive database management experience.
-**Mongoose:** To streamline our interactions with the MongoDB database.
+### 🔧 Built With 👷🏼‍♀️
+**JavaScript:** The backbone of our system, ensuring robust functionality.  
+**MongoDB Compass:** For a visual and intuitive database management experience.  
+**Mongoose:** To streamline our interactions with the MongoDB database.  
 
-### Team Effort
+### 🤝 Team Effort 
 This project was brought to life through the collective effort of our dedicated team, leveraging our skills in JavaScript and database management to create a system that is both useful and intuitive.
+
+### TEAM: 🌟
+[Viktor98k](https://github.com/Victor98k)  
+[QwertyNora](https://github.com/QwertyNora)  
+[DanielFilipsson](https://github.com/DanielFilipsson)
+
