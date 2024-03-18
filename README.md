@@ -1,4 +1,4 @@
-# -product-management-system
+# Product-management-system 🗄️📑
 
 In this assignment you are going to develop a product management system.
 The data in the database is data about products. The user shall be able to create an offer to the market by putting together one or more products into a group. For example a laptop and a phone can be put together into an offer. The customer can then buy both these items at the same time as part of the offer.
