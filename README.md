@@ -19,7 +19,7 @@ Welcome to our Product Management System, a terminal-based application designed 
 ### 🤝 Team Effort 
 This project was brought to life through the collective effort of our dedicated team, leveraging our skills in JavaScript and database management to create a system that is both useful and intuitive.
 
-### TEAM: 🌟
+###🌟 TEAM: 
 [Viktor98k](https://github.com/Victor98k)  
 [QwertyNora](https://github.com/QwertyNora)  
 [DanielFilipsson](https://github.com/DanielFilipsson)
